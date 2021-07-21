@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="image_name">Image that spins</string>
+    <string name="question">
+        I have just guessed a Number.
+        Can you guess what it is?
+        Choose Type:
+    </string>
+    <string name="two_digits">1 or 2-Digits</string>
+    <string name="three_digits">3-Digits</string>
+    <string name="four_digits">4-Digits</string>
+    <string name="start">Start</string>
+    <string name="confirm">Confirm</string>
+    <string name="guess">Guess a number</string>
+</resources>
